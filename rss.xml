@@ -3,19 +3,19 @@
     <channel>
         <title>Croqueta News</title>
         <link>https://www.croquetanews.com</link>
-        <description></description>
+        <description>En Croqueta-New, tenemos la informacion mas reciente sobre el mundo de la bechamel, nuevas recetas, tips, concursos, lugares que no te puedes perder si eres un fan de la bechamel y mucho más</description>
         <language>es</language>
 
         <item>
-            <title></title>
-            <guid></guid>
-            <description></description>
+            <title>La cuenta atrás: ¿Quién destronará a Santiago de Compostela?</title>
+            <guid>https://www.croquetanews/campeonato.com</guid>
+            <description>El 26, 27 y 28 de enero de 2026 se celebra Madrid Fusión Alimentos de España. El titular gancho es la inminente batalla por el título a la Mejor Croqueta de Jamón.</description>
         </item>
 
         <item>
-            <title></title>
-            <guid></guid>
-            <description></description>
+            <title>El rival a batir: La "Reina" de 2025 (Simpar)</title>
+            <guid>https://www.croquetanews/campeon-actual.com</guid>
+            <description>Hasta que se falle el premio de 2026 la semana que viene, la mejor croqueta de España vigente es la del chef Axel Smyth del restaurante Simpar (Santiago de Compostela).</description>
         </item>
 
         <item> <title></title>
